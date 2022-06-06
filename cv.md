@@ -23,8 +23,5 @@
     alert(a); // 2: variable is defined by var
     }   
 # Education # 
-* **College** : Socio-Humanitarian College
 # Languages # 
-* **English** - A2
-* **Russian** - Native
-* **Belarusian** - Intermediate
+
