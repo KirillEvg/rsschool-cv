@@ -17,6 +17,11 @@
 * Brackets
 * MS SQL Server
 # Code Example #
+    function outputVariable() {    
+    var a = 2;
+    window.a = 3;
+    alert(a); // 2: variable is defined by var
+    }   
 # Education # 
 * **College** : Socio-Humanitarian College
 # Languages # 
