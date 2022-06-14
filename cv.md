@@ -11,7 +11,6 @@
 * CSS
 * C#
 * Figma
-* Git
 * JS (Basic)
 * VS Code
 * Brackets
@@ -27,4 +26,3 @@
 # Languages # 
 * **English** - A2
 * **Russian** - Native
-* **Belarusian** - Intermediate
