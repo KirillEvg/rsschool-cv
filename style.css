@@ -27,9 +27,13 @@ body{
     padding: 40px;
 }
  
-.menu{
+.menu>nav>ul{
     display: flex;
     justify-content: center;
+    padding-left: 0;
+}
+.menu>nav>ul>li{
+    list-style-type: none;
 }
 h1{
     text-align: center;
